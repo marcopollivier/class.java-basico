@@ -1,4 +1,4 @@
-package aulas.javaDate;
+package aulas.trabalhandoComDatas.javaDate;
 
 import java.util.Date;
 
