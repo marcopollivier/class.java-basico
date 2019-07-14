@@ -2,6 +2,9 @@ package aulas.javaDate;
 
 import java.util.Date;
 
+/**
+ *  Exemplo de utilização do construtor com passagem de parametro em milisegundos
+ */
 public class Exemplo002 {
 
     public static void main(String[] args) {
