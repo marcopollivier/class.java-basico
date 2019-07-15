@@ -1,4 +1,4 @@
-package aulas.trabalhandoComDatas.dateFormat;
+package aulas.trabalhandoComDatas.javaDateFormat;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
