@@ -12,14 +12,17 @@ public class Exemplo008 {
         Date agora = new Date();
 
         String dateToStr = DateFormat.getInstance().format(agora);
-
         System.out.println(dateToStr);
-        // 14/07/19 22:40
+        // 15/07/19 22:13
 
         dateToStr = DateFormat.getDateTimeInstance(DateFormat.LONG,DateFormat.SHORT).format(agora);
-
         System.out.println(dateToStr);
-        // 14 de Julho de 2019 22:40
+        // 15 de Julho de 2019 22:13
+
+
+        dateToStr = DateFormat.getDateTimeInstance(DateFormat.LONG,DateFormat.LONG).format(agora);
+        System.out.println(dateToStr);
+        // 15 de Julho de 2019 22h13min55s BRT
 
     }
 }
