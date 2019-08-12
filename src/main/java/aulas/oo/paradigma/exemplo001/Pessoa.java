@@ -1,4 +1,4 @@
-package aulas.oo.exemplo001;
+package aulas.oo.paradigma.exemplo001;
 
 public class Pessoa {
 

@@ -1,4 +1,4 @@
-package aulas.oo.exemplo001;
+package aulas.oo.construtores.exemplo002;
 
 public class ExemploInstanciaObjeto {
 
@@ -7,7 +7,6 @@ public class ExemploInstanciaObjeto {
         Pessoa pessoa = new Pessoa();
 
         System.out.println(pessoa.getNome());
-        // Marco
 
     }
 
