@@ -1,8 +1,11 @@
-package aulas.oo.construtores.exemplo001;
+package aulas.oo.part02.construtores.exemplo002;
 
 public class Pessoa {
 
     private String nome;
+
+    public Pessoa() {
+    }
 
     public String getNome() {
         return nome;

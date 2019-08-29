@@ -1,10 +1,6 @@
-package aulas.oo.construtores.exemplo003.exemplo002;
+package aulas.oo.part02.construtores.exemplo001;
 
 public class Pessoa {
-
-    public Pessoa(String nome) {
-        this.nome = nome;
-    }
 
     private String nome;
 

@@ -1,4 +1,4 @@
-package aulas.oo.paradigma.exemplo001;
+package aulas.oo.part01.paradigma.exemplo001;
 
 public class ExemploMetodos {
     public static void main(String[] args) {

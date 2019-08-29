@@ -1,4 +1,4 @@
-package aulas.oo.construtores.exemplo002;
+package aulas.oo.part02.construtores.exemplo001;
 
 public class ExemploInstanciaObjeto {
 
