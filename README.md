@@ -19,9 +19,9 @@ quiser aprender um pouco mais sobre o assunto.
 - Encapsulamento, Herança e Polimorfismo 
 - This, Super, Equals e HashCode
 
-## Modulo: Trabalhando com Datas
+## [Modulo: Trabalhando com Datas](https://medium.com/responsive-br/java-basico-trabalhando-com-datas-70c4cb75e0f5)
 
-[Slides](https://speakerdeck.com/marcopollivier/curso-java-basico-trabalhando-com-datas) [Video das Aulas](#)
+[Slides](https://speakerdeck.com/marcopollivier/curso-java-basico-trabalhando-com-datas) [Video das Aulas](https://www.youtube.com/watch?v=4lvyXrZ-TLQ)
 
 - Trabalhando com Java Date
 - Trabalhando com Java Calendar
