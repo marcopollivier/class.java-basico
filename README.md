@@ -1,4 +1,4 @@
-# Curso Java Básico Diggital 
+# Curso Java Básico Digital Innovation One 
 
 https://digitalinnovation.one
 
