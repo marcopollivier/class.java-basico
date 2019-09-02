@@ -21,7 +21,7 @@ quiser aprender um pouco mais sobre o assunto.
 
 ## Modulo: Trabalhando com Datas
 
-[Slides](#) [Video das Aulas](#)
+[Slides](https://speakerdeck.com/marcopollivier/curso-java-basico-trabalhando-com-datas) [Video das Aulas](#)
 
 - Trabalhando com Java Date
 - Trabalhando com Java Calendar
