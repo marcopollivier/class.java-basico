@@ -11,4 +11,8 @@ public class Pessoa {
     public String falarMeuProprioNome(){
         return "Olá, meu nome é " + getNome();
     }
+
+    public String andar() {
+        return "Andando...";
+    }
 }

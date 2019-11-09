@@ -45,24 +45,4 @@ public abstract class Veiculo {
         return this.valorVenal * 0.01;
     }
 
-    @Override
-    public boolean equals(Object obj) {
-        if (obj == null) {
-            return false;
-        }
-
-        Veiculo comparavel;
-        if (obj instanceof Veiculo) {
-            comparavel = (Veiculo)obj;
-        } else {
-            return false;
-        }
-
-        if (comparavel.marca == this.marca && comparavel.modelo == this.modelo && comparavel.valorVenal == this.valorVenal) {
-            return true;
-        }
-
-        return false;
-    }
-
 }

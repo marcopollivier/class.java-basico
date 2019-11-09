@@ -6,5 +6,7 @@ public class ExemploMetodos {
 
         System.out.println(pessoa.falarMeuProprioNome());
         // Olá, meu nome é Marco
+
+        System.out.println(pessoa.andar());
     }
 }
