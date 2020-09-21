@@ -12,6 +12,7 @@ quiser aprender um pouco mais sobre o assunto.
 
 ## [Modulo: Orientação a Objetos](https://medium.com/marcopollivier/java-basico-orientacao-a-objetos-com-java-6bca04020cbf)
 
+[Aula DIO](https://web.digitalinnovation.one/course/desenvolvimento-basico-em-java/learning/2b757c6a-2998-43f0-b2a2-732513e3b32e)
 [Slides](https://speakerdeck.com/marcopollivier/curso-java-basico-orientacao-a-objetos) 
 [Video das Aulas](#) 
 
@@ -22,6 +23,7 @@ quiser aprender um pouco mais sobre o assunto.
 
 ## [Modulo: Trabalhando com Datas](https://medium.com/responsive-br/java-basico-trabalhando-com-datas-70c4cb75e0f5)
 
+[Aula Dio](https://web.digitalinnovation.one/course/desenvolvimento-basico-em-java/learning/735c425d-7e19-4713-9f2d-f54bcaa45cb1)
 [Slides](https://speakerdeck.com/marcopollivier/curso-java-basico-trabalhando-com-datas) 
 [Video das Aulas](https://www.youtube.com/watch?v=4lvyXrZ-TLQ)
 
