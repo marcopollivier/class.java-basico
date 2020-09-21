@@ -10,9 +10,10 @@ de Java Básico:
 Durante essa parceria, preparei as apresentações e os vídeos apresentando esse conteúdo e disponibilizo aqui para quem 
 quiser aprender um pouco mais sobre o assunto. 
 
-## Modulo: Orientação a Objetos
+## [Modulo: Orientação a Objetos](https://medium.com/marcopollivier/java-basico-orientacao-a-objetos-com-java-6bca04020cbf)
 
-[Slides](#) [Video das Aulas](#) 
+[Slides](https://speakerdeck.com/marcopollivier/curso-java-basico-orientacao-a-objetos) 
+[Video das Aulas](#) 
 
 - Paradigma O.O. 
 - Construtores
@@ -21,7 +22,8 @@ quiser aprender um pouco mais sobre o assunto.
 
 ## [Modulo: Trabalhando com Datas](https://medium.com/responsive-br/java-basico-trabalhando-com-datas-70c4cb75e0f5)
 
-[Slides](https://speakerdeck.com/marcopollivier/curso-java-basico-trabalhando-com-datas) [Video das Aulas](https://www.youtube.com/watch?v=4lvyXrZ-TLQ)
+[Slides](https://speakerdeck.com/marcopollivier/curso-java-basico-trabalhando-com-datas) 
+[Video das Aulas](https://www.youtube.com/watch?v=4lvyXrZ-TLQ)
 
 - Trabalhando com Java Date
 - Trabalhando com Java Calendar
