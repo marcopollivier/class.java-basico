@@ -3,7 +3,7 @@
 ## [Modulo: Orientação a Objetos](https://medium.com/marcopollivier/java-basico-orientacao-a-objetos-com-java-6bca04020cbf)
 
 [Slides](https://speakerdeck.com/marcopollivier/curso-java-basico-orientacao-a-objetos) 
-[Video das Aulas](#) 
+[Video das Aulas]([#](https://www.youtube.com/watch?v=lFB3OtEv3aY)) 
 
 - Paradigma O.O. 
 - Construtores
